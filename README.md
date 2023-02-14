@@ -7,10 +7,10 @@ Project is created on 1st February 2023
 BikeShare Project 
 
 ### Description
-Describe what your project is about and what it does
+This project is written in python. Program asks user to get city month and day. The program will calculate the most common day of week, the most common time of travel, most common start hour, most commonly used start station, most commonly used end station and most frequent combination of start station and end station trip. Program will display counts of user types, mean travel time, total travel time counts of gender, earliest, most recent and most common year of birth.
 
 ### Files used
-Include the files used
+CSV files are used for data and those files includes data of Chicago, Washington DC and Newyork.
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
