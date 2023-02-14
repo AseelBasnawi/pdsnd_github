@@ -13,5 +13,4 @@ This project is written in python. Program asks user to get city month and day. 
 CSV files are used for data and those files includes data of Chicago, Washington DC and Newyork.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+All Credit goes to Udacity Repository.
