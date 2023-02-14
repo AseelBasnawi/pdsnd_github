@@ -79,7 +79,7 @@ def time_stats(df):
     print('\nCalculating The Most Frequent Times of Travel...\n')
     start_time = time.time()
 
-    # display the most common month
+    # display the most common month of year
     print("The most common month is: ", df['month'].value_counts().idxmax())
 
     # display the most common day of week
